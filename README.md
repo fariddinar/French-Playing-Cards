@@ -1,6 +1,7 @@
 # French-Playing-Cards
 
 Welcome to the **French Playing Cards - Classification** repository.
+
 This project aims to develop a mobile app designed for blind individuals or those with vision difficulties who wish to enjoy playing cards.
 It features a comprehensive dataset, a classification model, and an interactive web application for classifying French playing cards. Below, you'll find detailed information on the dataset, the model, and how to use the application.
 
